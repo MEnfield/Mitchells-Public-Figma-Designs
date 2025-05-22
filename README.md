@@ -1,7 +1,7 @@
 # Mitchells-Public-Figma-Designs
 These are some of my figma projects that are publicly accessible. Thank you for taking the time to stop by and check them out! 
 
-## [Jam Sesh](https://www.figma.com/proto/PdZwQAZXU8baVBUvJH1uNq/Jam-Sesh---Mobile?node-id=1-84&p=f&t=e1ZcTsbg2sSyXHx6-1&scaling=min-zoom&content-scaling=fixed&page-id=1%3A83)
+## [Jam Sesh](https://www.figma.com/proto/PdZwQAZXU8baVBUvJH1uNq/Jam-Sesh---Mobile?node-id=243-1741&p=f&t=FgnoDCGIxHm7KrzU-1&scaling=min-zoom&content-scaling=fixed&page-id=55%3A282&starting-point-node-id=243%3A1741)
 This is a project I'm currently working on that will allow users to schedule jam sessions with one another as well as allow companies to create public gig listings that users can sign up to attend.
 
 <img width="295" alt="Jam Sesh" src="https://github.com/user-attachments/assets/42251a2d-3e9a-463e-ae0a-f3cf784e1257" />
